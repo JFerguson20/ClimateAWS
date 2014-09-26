@@ -5,7 +5,6 @@ ClimateAWS
 http://cs440-jf.s3-website-us-east-1.amazonaws.com/
 
 <b>Final project for WVU CS440 Databases<b>
-
 ===========
 The goal was to analyze the weather data from this public data set on AWS http://aws.amazon.com/datasets/Climate/2759
 I used Amazon Elastic MapReduce which uses Hadoop to process the data.
